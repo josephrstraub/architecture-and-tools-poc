@@ -1,0 +1,16 @@
+[ignore]
+<PROJECT_ROOT>/node_modules/metro/.*
+<PROJECT_ROOT>/node_modules/@expo/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
+
+[untyped]
+<PROJECT_ROOT>/node_modules/react-native/Libraries/.*
