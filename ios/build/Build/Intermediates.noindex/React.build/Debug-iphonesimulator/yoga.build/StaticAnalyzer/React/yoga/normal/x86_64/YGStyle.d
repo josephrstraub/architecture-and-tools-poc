@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.cpp \
+  /Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h \
+  /Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
