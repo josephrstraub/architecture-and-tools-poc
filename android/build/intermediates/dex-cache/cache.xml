@@ -3,48 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-dash/2.7.3/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/524b98f6296976f5278b4abe8f02377eaaa3d025/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="cc0260762808f1e9244fa3a1aa53c4a140208af5">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-dash-2.7.3_a73a337694b1e53b165122bded68d9d66fefb972.jar" />
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_42931c81bc61a9a7fdcc8e2ab1dcf297fe6e1697.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/emindful/react-native-video/unspecified/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/141a0167fa6760c65503d6fb344d58e8dbe85dc4/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="0b420ccd3633b2c25c9e94bda10355be264b3973">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/emindful-react-native-video-unspecified_c9a8cb862283dbc1ac27291dc2cd60903e75b3d5.jar" />
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_88426b436fe06ba0d7cbdf1dff8b929231f699d5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/emindful/react-native-vector-icons/unspecified/jars/classes.jar"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/emindful-react-native-vector-icons-unspecified_f3baf4b5571abedee07b20fb194d695f59cd23b5.jar" />
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_2eab759f378f87e56d61d6d2b1c6a9df4b0ce5ad.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/47a9fd3e6fb2709715c2a08d3c0b40fe801a6c22/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4c3c7d2c8e2199fc628b58fa332aa3413fee567b.jar" />
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_d2535727b0e4d07d6def88ed04cedd600b1939f7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_3c94b033e9b6b26b301f78101ab57a3f7a74c156.jar" />
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_b0b0d3da5a9a85fc65baf9af2cf5080739cd1188.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/5962dbe2a3cdf16cd21c0d39b89f0090639469f2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_72b1a39177655a7792cd28f9551cdf955996b7eb.jar" />
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_c9cc43355d8eb4c71930e2e078f54d5d40211d41.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,30 +75,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-smoothstreaming/2.7.3/jars/classes.jar"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="8c57f428f82d1accd3d84d9d7fcae183ed94297f">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-smoothstreaming-2.7.3_d8c70cc118dc894a1295d8c9234aff930f9d6761.jar" />
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_ef2c7b70d2947866fc9f4b6aa1c1976c63890688.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/74b3f9e8466aa8a427d3b0893faa7f66598dc6dc/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_284f451a1712bc5e62457b1865d99e5c6150aa3d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f81f093964e57910285f3b59e686a63222206e22.jar" />
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_47802cdf0be58bb8e6cb289310be164017356150.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,6 +102,42 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_33165084cfd63d988ceb1908992645126cc6489d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/229e40ed04bdfe90c30b9e9faf1855767cc73b22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_8d9731c6d712bc2f05f8a0422d5f66e9d22f7723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/0c385614e2099aec238722e9cda44f5bc845fd8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8c57f428f82d1accd3d84d9d7fcae183ed94297f">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_a479848401dbfff62f7b3e70ab9707bccb0b4801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/2cbcc09ad59c1d8ad1a148ebc444f99984f74e36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_5f5611e9522fc93f392af0fe80bb6b7235280b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -120,102 +147,201 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_a3a08a1c18fb1b0f7bdeffc1c4f955621d9ae526.jar" />
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_f2a7b270dab1cf8af6834166cf48ab3c473897a2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/3eea7144b35362d8217d1d01564867702ab497d2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7e36cfa54ec4dad03f3630f12c5be262835e0866.jar" />
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_73a1d8fb5e169937571ca340281ffdde2a9d6ba3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/2.7.3/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/9d577aad824fafaac59458b6cdd41d2f2d4d0480/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-2.7.3_d9d7be9b617093a9b5bc044bfee13fe2106336a9.jar" />
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_4cdebfdddcf8a54203eff89c5e36f4946deea273.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/d3886748c9d68b131c0cb003adcc911508965ddd/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9b7174a42790ea4163a4efc7bf16f2957a399cff.jar" />
+        revision="26.0.3"
+        sha1="effa31b9150eed30c7bdd455cec8448f58922cc1">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_80322a245ec1da51b7693a1031afb7e36d5907ca.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f27e95f0a86334f6fab4eaa08c20cbc905766ef1.jar" />
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_cad2d46638040a05d4e499198b7608efa66b153c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-hls/2.7.3/jars/classes.jar"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="aafed85e21a4daacd152f5f8d44bb61cd35e6359">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-hls-2.7.3_f4268dc7c2000de4320f3f0af1baf8c8021022e3.jar" />
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1a9128aecbb710b02960bdb29db1fb9a3c04669b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/4bc916d1d30f8804e619703a52eddf52b3e4e777/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_2817e4bf2957942a98496431006a5e5eb698adaf.jar" />
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_09ced4fc87924389541c7f3814d999cb0096ab5a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/4882821f7bf56f79348fc2e8579509383696125c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_86989da24484bf93248a6b6debd7fbc5a9c22ec2.jar" />
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_8c0e9338e759b7c676099340453fe50a751248b5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/57a905b3d80a46fdc921fd28b47d3139bccb0f7e/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_a8151fd7aac03b8e2f0434978a631dfdb9686711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/f0be61f15b831c4c2785a402642022323f412b50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_28b9359efcdcc11528763a7a7a765a9e782cb7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
         sha1="0a87d85ec555546221e6d809e7fe70aa09c11063">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-ui-2.7.3_591731bcdb53578caa622e6fbf0fa2ad61f90a2d.jar" />
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_e9921a929eb61070262183d6ef6c35627a822f59.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/aa72b3718ea8ba27e86a66fe80aa0a3e64274361/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bcc951792b8e6f7a8ed52df7259d84860127508d.jar" />
+        revision="26.0.3"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_7d2aafbd3530f1df20b28f8b394a02544187a867.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/extension-okhttp/2.7.3/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/52c919abda70332157cd44978bc86c0c79453866/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_b99db38315fd4e1541afd483727925f8f4894fa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/a7eb223ecb1735468425f965b80ea5b268ef20c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
         sha1="fc90669423ccb16c7cf005bccb3d5ffeb8730659">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-extension-okhttp-2.7.3_d1340256649630cb199037d44db1ef34159f0dcf.jar" />
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_bbdf876208e84ce622cee5d88ada40043317a76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/Documents/eMindful/emindful/node_modules/react-native-video/android-exoplayer/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0b420ccd3633b2c25c9e94bda10355be264b3973">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_39931a69aefa883d864dfe155c40985dad37f91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.0_c54d80859587e2f014ef5e9b21dd108061b88f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/4fb4aebc6c68a07c4de58de338872b7d22a2bcd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_df1acfff7a00c6edcaa009934a16262766b3d2bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/b0a1e74140a7e7d5208dd53161a3ae59e3641d0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="aafed85e21a4daacd152f5f8d44bb61cd35e6359">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_239b7571b9879977766a5756e4067200e117d7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/cdcb07a821b9235b2153c87f0925f63bbc8d5ea6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_d40d6291da3116cb4f0af2345fe1d7199182ddc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_bb408548cf5c638bd868b516a9d675ae435457a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2a2914baefdb1740d7244155f7ae5ef5d9e91cfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josephstraub/.android/build-cache/7a734a0cee7a220b8d18a8719d274894d68e2c72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_6596bc78c1b830ddb84604c1c7be79095cb821d7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,48 +354,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/5556e3fc391c8612575a32a9ac83b4be67eb7969/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_781658a12d367dcdadeef208aba8437015f0666e.jar" />
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_240fe8b1031b2419dbde902b9bb4ce3799329813.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-core/2.7.3/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/444e0393074a80702e3a88ec558c8a675a2e7d25/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="effa31b9150eed30c7bdd455cec8448f58922cc1">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-core-2.7.3_a75ba391929aae2a2524222a873e8c2fc4f68f12.jar" />
+        revision="26.0.3"
+        sha1="cc0260762808f1e9244fa3a1aa53c4a140208af5">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_d44518844013bda58cf86fc6d0e1dacb161f2cfb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
+        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/okhttp-3.9.1_476fb625b83aa26e5a8b76be02363b626f142be3.jar" />
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_81cd797164d0fc2dfda1c379f4658f549f374cb2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/Users/josephstraub/.android/build-cache/7211b7466648a05524c7875a3d53053fbbbff129/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_5c159e87b9b95a138c08a7b43dede22025b866f8.jar" />
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/classes_f6a1f83a14c93a46a3aef8cfc3d8296df0cc1db3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/josephstraub/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/Users/josephstraub/.android/build-cache/4fb4aebc6c68a07c4de58de338872b7d22a2bcd1/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_549fb7d2dbe15d24440b0da94fb00537990739c7.jar" />
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f3a408e5eeb36f397fed1872988fc83b204c4afb.jar" />
     </item>
 
 </items>

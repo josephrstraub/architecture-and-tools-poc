@@ -7,334 +7,11 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 102,
-                    "endOffset": 153
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 284,
-                        "endColumn": 102,
-                        "endOffset": 382
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 158,
-                    "endColumn": 107,
-                    "endOffset": 261
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 387,
-                        "endColumn": 107,
-                        "endOffset": 490
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 266,
-                    "endColumn": 122,
-                    "endOffset": 384
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 495,
-                        "endColumn": 122,
-                        "endOffset": 613
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 389,
-                    "endColumn": 96,
-                    "endOffset": 481
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 618,
-                        "endColumn": 96,
-                        "endOffset": 710
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 486,
-                    "endColumn": 106,
-                    "endOffset": 588
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 715,
-                        "endColumn": 106,
-                        "endOffset": 817
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 593,
-                    "endColumn": 84,
-                    "endOffset": 673
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 822,
-                        "endColumn": 84,
-                        "endOffset": 902
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 678,
-                    "endColumn": 104,
-                    "endOffset": 778
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 907,
-                        "endColumn": 104,
-                        "endOffset": 1007
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 783,
-                    "endColumn": 111,
-                    "endOffset": 890
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1012,
-                        "endColumn": 111,
-                        "endOffset": 1119
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 895,
-                    "endColumn": 79,
-                    "endOffset": 970
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1124,
-                        "endColumn": 79,
-                        "endOffset": 1199
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 975,
-                    "endColumn": 106,
-                    "endOffset": 1077
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1204,
-                        "endColumn": 106,
-                        "endOffset": 1306
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1082,
-                    "endColumn": 96,
-                    "endOffset": 1174
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1311,
-                        "endColumn": 96,
-                        "endOffset": 1403
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1179,
-                    "endColumn": 97,
-                    "endOffset": 1272
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1408,
-                        "endColumn": 97,
-                        "endOffset": 1501
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1277,
-                    "endColumn": 104,
-                    "endOffset": 1377
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1506,
-                        "endColumn": 104,
-                        "endOffset": 1606
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1382,
-                    "endColumn": 102,
-                    "endOffset": 1480
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1611,
-                        "endColumn": 102,
-                        "endOffset": 1709
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1485,
-                    "endColumn": 103,
-                    "endOffset": 1584
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1714,
-                        "endColumn": 103,
-                        "endOffset": 1813
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1589,
-                    "endColumn": 121,
-                    "endOffset": 1706
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1818,
-                        "endColumn": 121,
-                        "endOffset": 1935
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1711,
-                    "endColumn": 95,
-                    "endOffset": 1802
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1940,
-                        "endColumn": 95,
-                        "endOffset": 2031
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1807,
                     "endColumn": 80,
-                    "endOffset": 1883
+                    "endOffset": 131
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -346,14 +23,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 1888,
+                    "startOffset": 136,
                     "endColumn": 71,
-                    "endOffset": 1955
+                    "endOffset": 203
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -365,14 +42,14 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 1960,
+                    "startOffset": 208,
                     "endColumn": 71,
-                    "endOffset": 2027
+                    "endOffset": 275
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -384,14 +61,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 2032,
+                    "startOffset": 280,
                     "endColumn": 65,
-                    "endOffset": 2093
+                    "endOffset": 341
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -403,14 +80,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 2098,
+                    "startOffset": 346,
                     "endColumn": 77,
-                    "endOffset": 2171
+                    "endOffset": 419
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -422,14 +99,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 2176,
+                    "startOffset": 424,
                     "endColumn": 83,
-                    "endOffset": 2255
+                    "endOffset": 503
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -441,14 +118,14 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 2260,
+                    "startOffset": 508,
                     "endColumn": 79,
-                    "endOffset": 2335
+                    "endOffset": 583
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -460,14 +137,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 2340,
+                    "startOffset": 588,
                     "endColumn": 75,
-                    "endOffset": 2411
+                    "endOffset": 659
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -479,14 +156,14 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 2416,
+                    "startOffset": 664,
                     "endColumn": 73,
-                    "endOffset": 2485
+                    "endOffset": 733
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -498,14 +175,14 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 2490,
+                    "startOffset": 738,
                     "endColumn": 75,
-                    "endOffset": 2561
+                    "endOffset": 809
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -517,39 +194,20 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 2566,
+                    "startOffset": 814,
                     "endColumn": 63,
-                    "endOffset": 2625
+                    "endOffset": 873
                 },
                 "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "file": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/values-lo-rLA/values-lo-rLA.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
                         "startOffset": 814,
                         "endColumn": 63,
                         "endOffset": 873
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2630,
-                    "endColumn": 100,
-                    "endOffset": 2726
-                },
-                "from": {
-                    "file": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-lo-rLA/values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2036,
-                        "endColumn": 100,
-                        "endOffset": 2132
                     }
                 }
             }

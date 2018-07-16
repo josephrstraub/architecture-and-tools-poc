@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/josephstraub/.android/build-cache/f0be61f15b831c4c2785a402642022323f412b50/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/josephstraub/.android/build-cache/f0be61f15b831c4c2785a402642022323f412b50/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/josephstraub/.android/build-cache/f0be61f15b831c4c2785a402642022323f412b50/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/josephstraub/.android/build-cache/f0be61f15b831c4c2785a402642022323f412b50/output/res/layout-v21/notification_action.xml"
+    }
+]

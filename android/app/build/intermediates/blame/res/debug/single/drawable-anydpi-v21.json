@@ -1,54 +1,54 @@
 [
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_repeat_off.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_play.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_play.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_play.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_pause.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_pause.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_pause.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_edit_mode_logo.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_repeat_one.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_next.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_next.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_next.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_repeat_all.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_previous.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_previous.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_previous.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_rewind.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_rewind.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_rewind.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_fastforward.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
     },
     {
         "merged": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_shuffle.xml",
-        "source": "/Users/josephstraub/Documents/eMindful/emindful/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer-ui/2.7.3/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
+        "source": "/Users/josephstraub/.android/build-cache/44f50325fbff761061e43b5a6d5106cd6d453de8/output/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
     }
 ]
