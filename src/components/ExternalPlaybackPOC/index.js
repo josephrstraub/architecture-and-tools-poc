@@ -15,7 +15,7 @@ export default class ExternalPlaybackPOC extends React.Component<Props, State> {
 
   constructor() {
     super();
-    this.state = { videoHeight: 1 };
+    this.state = { videoHeight: 0 };
   }
 
   onMediaLoad = ({ naturalSize }: Object) => {
