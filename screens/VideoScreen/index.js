@@ -28,7 +28,7 @@ export default class VideoScreen extends React.Component<Props, State> {
     const thresholdCrossedText: string = `You've watched ${Math.floor(videoPosition / 1000)} seconds of this video. Perhaps you deserve a badge!`;
 
     return (
-      <View>
+      <View testID="welcome">
         <Video
           onPlaybackStatusUpdate={this.onPlaybackStatusUpdate}
           source={{ uri: 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4' }}

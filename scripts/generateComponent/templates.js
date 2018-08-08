@@ -83,7 +83,7 @@ export default StyleSheet.create({});
 const getRegularComponentTestJSTemplate = name =>
 `import React from 'react';
 import renderer from 'react-test-renderer';
-import ${name} from './';
+import ${name} from '.';
 
 it('renders without crashing', () => {
   const rendered = renderer.create(<${name} />).toJSON();
@@ -95,7 +95,7 @@ const getHigherOrderComponentTestJSTemplate = name =>
 `import React from 'react';
 import renderer from 'react-test-renderer';
 import { View } from 'react-native';
-import ${name} from './';
+import ${name} from '.';
 
 it('renders without crashing', () => {
   const StubComponent = () => <View />;
