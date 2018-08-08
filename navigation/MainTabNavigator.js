@@ -1,76 +1,43 @@
+/* @flow */
 import React from 'react';
 import { Platform } from 'react-native';
 import { createStackNavigator, createBottomTabNavigator } from 'react-navigation';
 
 import TabBarIcon from '../components/TabBarIcon';
-import HomeScreen from '../screens/HomeScreen';
-import LinksScreen from '../screens/LinksScreen';
-import SettingsScreen from '../screens/SettingsScreen';
-import VideoScreen from '../screens/VideoScreen';
+import Account from '../screens/Account';
+import Classes from '../screens/Classes';
+import Schedule from '../screens/Schedule';
 
-const HomeStack = createStackNavigator({
-  Home: HomeScreen,
-});
+const tabs: Object[] = [
+  { icon: 'person', label: 'Account', screen: Account },
+  { icon: 'videocam', label: 'Classes', screen: Classes },
+  { icon: 'calendar', label: 'Schedule', screen: Schedule },
+];
 
-HomeStack.navigationOptions = {
-  tabBarLabel: 'Home',
-  tabBarIcon: ({ focused }) => (
-    <TabBarIcon
-      focused={focused}
-      name={
-        Platform.OS === 'ios'
-          ? `ios-information-circle${focused ? '' : '-outline'}`
-          : 'md-information-circle'
-      }
-    />
-  ),
+const getRouteConfigs = (): Object => tabs.reduce((routeConfigs, tab) => {
+  const Stack = createStackNavigator({ [tab.label]: tab.screen });
+
+  Stack.navigationOptions = {
+    tabBarLabel: tab.label,
+    tabBarIcon: ({ focused }) => (
+      <TabBarIcon
+        focused={focused}
+        name={Platform.OS === 'ios' ? `ios-${tab.icon}${focused ? '' : '-outline'}` : `md-${tab.icon}`}
+      />
+    ),
+  };
+
+  return {
+    ...routeConfigs,
+    [tab.label]: Stack,
+  };
+}, {});
+
+const bottomTabNavigatorConfig: Object = {
+  order: tabs.map(tab => tab.label),
 };
 
-const LinksStack = createStackNavigator({
-  Links: LinksScreen,
-});
-
-LinksStack.navigationOptions = {
-  tabBarLabel: 'Links',
-  tabBarIcon: ({ focused }) => (
-    <TabBarIcon
-      focused={focused}
-      name={Platform.OS === 'ios' ? `ios-link${focused ? '' : '-outline'}` : 'md-link'}
-    />
-  ),
-};
-
-const SettingsStack = createStackNavigator({
-  Settings: SettingsScreen,
-});
-
-SettingsStack.navigationOptions = {
-  tabBarLabel: 'Settings',
-  tabBarIcon: ({ focused }) => (
-    <TabBarIcon
-      focused={focused}
-      name={Platform.OS === 'ios' ? `ios-options${focused ? '' : '-outline'}` : 'md-options'}
-    />
-  ),
-};
-
-const VideoStack = createStackNavigator({
-  Video: VideoScreen,
-});
-
-VideoStack.navigationOptions = {
-  tabBarLabel: 'Video',
-  tabBarIcon: ({ focused }) => (
-    <TabBarIcon
-      focused={focused}
-      name={Platform.OS === 'ios' ? `ios-videocam${focused ? '' : '-outline'}` : 'md-videocam'}
-    />
-  ),
-};
-
-export default createBottomTabNavigator({
-  HomeStack,
-  LinksStack,
-  SettingsStack,
-  VideoStack
-});
+export default createBottomTabNavigator(
+  getRouteConfigs(),
+  bottomTabNavigatorConfig,
+);

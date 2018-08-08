@@ -45,6 +45,7 @@ rules:
     - extensions:
       - .js
   react/jsx-one-expression-per-line: 0
+  react/prop-types: 0
   react/sort-comp:
     - 2
     - order:
